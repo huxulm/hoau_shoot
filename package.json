@@ -1,0 +1,29 @@
+{
+  "name": "hoau_shoot",
+  "version": "1.0.0",
+  "description": "A node implementation of code copy of hoau.dc system.",
+  "main": "codeCopy",
+  "scripts": {
+    "start": "node codeCopy.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackdon/hoau_shoot.git"
+  },
+  "keywords": [
+    "ant",
+    "node",
+    "code",
+    "copy"
+  ],
+  "author": "jackdon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackdon/hoau_shoot/issues"
+  },
+  "homepage": "https://github.com/jackdon/hoau_shoot#readme",
+  "dependencies": {
+    "ant": "^0.2.0"
+  }
+}
