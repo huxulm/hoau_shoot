@@ -3,5 +3,7 @@
 	"workSpaceProjectPath": "D:\\HOAU\\WSP\\_DC\\hoauNew_0421",
 	"buildClass": "\\build\\classes",
 	"outputClass": "\\ant\\classes",
-	"outputClient": "\\ant\\client"
+	"outputClient": "\\ant\\client",
+	"serverClassReg":["/server", "/util", "/gui", "\\server", "\\util", "\\gui", "\\sys", "/sys", "\\data", "/data"],
+	"clientClassReg":["/client", "\\client"]
 }
